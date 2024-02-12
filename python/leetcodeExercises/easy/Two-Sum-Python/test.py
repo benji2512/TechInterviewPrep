@@ -16,4 +16,5 @@ class TestTwoSum(unittest.TestCase):
     self.assertNotEqual(self.solution.twoSum([2,3,3], 6), [0,1])
 
 if __name__ == "__main__":
+  # TODO make pytest work within the env  
   unittest.main
