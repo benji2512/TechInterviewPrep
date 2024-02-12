@@ -1,4 +1,3 @@
-# TODO create a passing and a failing test for this in test.py
 def longestCommonPrefix(self, strs: List[str]) -> str:
     """
     Finds the longest common prefix from a given list of words
@@ -17,3 +16,6 @@ def longestCommonPrefix(self, strs: List[str]) -> str:
         if char != word2[it]:
             return word1[:it]
     return word1
+
+# TODO create a passing and a failing test for this in test.py
+#  this should be an easy task to do
