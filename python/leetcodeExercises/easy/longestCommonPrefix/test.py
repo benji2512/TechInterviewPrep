@@ -1,5 +1,5 @@
-# @todo Write tests for thise
-# @body Use pytest to write a passing and failing test for this
+# "TODO" Write tests for thise
+# "BODY" Use pytest to write a passing and failing test for this
 
 class TestTwoSum(unittest.TestCase):
   def setUp(self):
